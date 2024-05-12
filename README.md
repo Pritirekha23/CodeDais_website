@@ -17,6 +17,5 @@
 
 
 # Future Scope:
--  Course section
-- Blog section
-- 
+- Blog section 
+- Contact Us page
