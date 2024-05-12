@@ -16,6 +16,11 @@
 [!Youtube]([Youtube](https://www.youtube.com/@codedais))
 
 
-# Future Scope:
-- Blog section 
-- Contact Us page
+
+<h2>Future Scope:</h2>
+<p>In the future, I plan to add the following features to the website:</p>
+<ul>
+    <li>Course Page: A dedicated page for each course with detailed information, curriculum, and instructor details.</li>
+    <li>Blog section: A section for blog posts related to programming, web development, and technology.</li>
+    <li>Contact Us page: A page for users to contact the website administrators with questions, feedback, or support requests.</li>
+</ul>
